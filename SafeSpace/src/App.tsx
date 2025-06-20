@@ -1,9 +1,9 @@
-import Chats from "./components/pages/Chats";
-import Diet from "./components/pages/Diet";
-import Exercise from "./components/pages/Exercise";
-import Home from "./components/pages/Home";
-import Motivation from "./components/pages/Motivation";
-import Search from "./components/pages/Search";
+import Chats from './pages/Chats';
+import Diet from "./pages/Diet";
+import Exercise from "./pages/Exercise";
+import Home from "./pages/Home";
+import Motivation from "./pages/Motivation";
+import Search from "./pages/Search";
 
 import { BrowserRouter, Route, Routes, Link } from "react-router-dom";
 
